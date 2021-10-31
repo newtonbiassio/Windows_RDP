@@ -1,4 +1,4 @@
-name: amazonRDP
+name: amazon
 
 on: workflow_dispatch
 
